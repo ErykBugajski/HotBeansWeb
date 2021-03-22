@@ -1,0 +1,227 @@
+html, body{
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    opacity: 0.9;
+    background-image: url(images/alberta-2297204.jpg);
+}
+.container{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    float: right;
+    text-align: right;
+}
+.header{
+    width: 100%;
+    background-color:#333;
+    float:left;
+ } 
+.header  h1{
+	color: white;
+	font-family: 'Rancho', cursive;
+    text-align: center;
+    font-size: 50px;
+}
+
+.header img{
+    size: 100px;
+    position: relative;
+    top: 00px;
+    right: 600px;
+
+}
+
+
+ .contentm{
+    width: 100%;
+	height: 1000px;
+    background-color: white;
+    float: right;
+    padding-bottom: 150px;
+    font-size: 20px;
+ } 
+ .contentm img{
+     width: 600px;
+     padding: 10px;
+     position: relative;
+     right: 400px;
+ }
+ .contentm h2{
+    font-family: 'Rancho', cursive;
+}
+ .txt1 {
+     position: relative;
+     bottom: 700px;
+     right: 20px;
+     text-align: center;
+     font-size: 23px;
+     
+ }
+.txt2{
+    text-align: center;
+    position: relative;
+    bottom: 550px;
+    font-size: 23px;
+}
+
+#heads {
+    position: relative;
+    bottom: 700px;
+    right: 620px;
+    
+}
+     
+
+ .footer{
+    width: 100%;
+	height: 100%;
+    background-color:#333;
+    float: left;
+    text-align: center;
+ } 
+.footer img{
+    width: 200px;
+    padding-top: 25px;
+}
+.footer p{
+    color: black;
+}
+
+.banner img{
+    width: 150px;
+    padding-top: 20px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color:white;
+    margin-left: 200px;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Rancho', cursive;
+    font-size: 17px;
+    
+}
+li a:hover {
+    background-color:#00a4ff;
+}
+.button {
+    background-color: #333;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 50px;
+  }
+.button:hover {
+    transition-duration: 0.s;
+    background-color: grey;
+}
+
+.para1{
+    text-align: center;
+    float: left;
+    bottom: 950px;
+    position: relative;
+    left: 350px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border:2px solid gray;
+}
+.para2{
+    float: right;
+    text-align: right;
+    position: relative;
+    right: 360px;
+    bottom: 695px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border:2px solid gray;
+}
+.para3{
+    float: left;
+    text-align: left;
+    position: relative;
+    left: -50px;
+    bottom: 150px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border:2px solid gray;
+ 
+
+}
+.img1{
+    width: 300px;
+    position: relative;
+    bottom: 1175px;
+    left: 30px;
+    opacity: 100%;
+}
+.img2{
+    bottom: 1200px;
+    position: relative;
+    right: 30px;
+}
+.img3{
+    position: relative;
+    bottom: 800px;
+    right: 1200px;
+    bottom: 900px;
+    
+}
+
+.frmbox{
+position: relative;
+right: 300px;
+top: 200px;
+size: 500px;
+
+
+}
+
+.temp1{
+    position: relative;
+    right: 250px;
+    text-align: center;
+    font-size: 30px;
+    top: 80px;
+
+}
+
+.neimg{
+    position: relative;
+    left: 590px;
+    bottom: 370px;
+}
+
+.itm{
+    position: relative;
+    right: 370px;
+}
+
+.itm2{
+    text-align: center;
+    position: relative;
+    right: 30px;
+}
+
+.itm3{
+    position: relative;
+    right: 15px;
+    top: 40px;
+}
+.itm4{
+    position: relative;
+    right: 20px;
+    top: 100px;
+}
